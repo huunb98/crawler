@@ -1,0 +1,10 @@
+# Environments
+.env
+
+# Log folder
+logs
+
+# Lock file npm
+package-lock.json
+
+node_modules
